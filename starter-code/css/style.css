@@ -1,3 +1,14 @@
 body {
   font-family: sans-serif;
+  
+  
+}
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid red;
+  margin-top: 50px;
+  margin-left: 400px;
+  margin-right: 400px;
 }
